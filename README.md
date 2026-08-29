@@ -1,6 +1,6 @@
 # Hi, I'm Zain
 
-### 🤖 AI & Machine Learning Developer | Software Developer | Open Source
+###  AI & Machine Learning Developer | Software Developer | Open Source
 
 I’m a developer focused on **Artificial Intelligence, Machine Learning, Deep Learning, and Software Engineering**.
 
