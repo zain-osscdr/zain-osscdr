@@ -104,6 +104,7 @@ Deep Learning
 Software Engineering
         ↓
 AI-Powered Applications
+```
 🎯 Goals
 Build practical AI and ML applications
 Improve software engineering skills
