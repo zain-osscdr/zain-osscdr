@@ -1,27 +1,24 @@
-# Hi 👋 I'm Zain
+# 👋 Hi, I'm Zain
 
 ### 🤖 AI & Machine Learning Developer | Software Developer | Open Source
 
-I'm a developer focused on **Artificial Intelligence, Machine Learning, Deep Learning, and Software Development**.
+I’m a developer focused on **Artificial Intelligence, Machine Learning, Deep Learning, and Software Engineering**.
 
-I build practical projects, experiment with different technologies, and continuously improve my problem-solving and development skills.
+I enjoy building practical applications, experimenting with new technologies, and solving problems through clean and efficient code.
 
----
 
-## 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/zain-osscdr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -29,7 +26,7 @@ I build practical projects, experiment with different technologies, and continuo
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
@@ -41,7 +38,7 @@ I build practical projects, experiment with different technologies, and continuo
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,cs,dotnet" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
@@ -50,24 +47,26 @@ I build practical projects, experiment with different technologies, and continuo
 ### 📊 Data Science
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 What I Work On
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Neural Networks & CNNs
-- 📊 Data Analysis & Visualization
-- 🌐 Full-Stack Web Development
-- 💻 Software Development
-- 🗄️ Database Systems
-- 🧩 Data Structures & Algorithms
-- 🔬 AI-based Applications
+| Area | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | AI-powered applications |
+| 🧠 Machine Learning | Models, experiments & prediction |
+| 🔬 Deep Learning | Neural Networks & CNNs |
+| 📊 Data Science | Data analysis & visualization |
+| 🌐 Web Development | Full-stack applications |
+| 💻 Software Engineering | Scalable & maintainable software |
+| 🧩 Algorithms | Data Structures & Algorithms |
+| 🗄️ Databases | Database-driven applications |
 
 ---
 
@@ -75,19 +74,21 @@ I build practical projects, experiment with different technologies, and continuo
 
 | Project | Description |
 |---|---|
-| 🧠 [Machine Learning Models](https://github.com/zain-osscdr/Machine-Learning-Models) | Machine learning models, datasets, experiments, and analysis |
+| 🛠️ [AutoRepair ERP System](https://github.com/zain-osscdr/AutoRepairERP-System) | ASP.NET Core automotive ERP system with inventory, payroll, job orders, invoicing, role-based access control, and SQL Server integration |
 | 🤖 [Deep Learning Models](https://github.com/zain-osscdr/Deep-Learning-Models) | Neural networks, CNNs, activation functions, and deep learning experiments |
-| 🏗️ [BuildPlan](https://github.com/zain-osscdr/BuildPlan) | Smart construction planning and estimation platform |
-| 💻 [LeetCode Solutions](https://github.com/zain-osscdr/LeetCode-Solutions) | Data structures and algorithm solutions |
-| 📚 [Smart Library Management](https://github.com/zain-osscdr/SmartLibraryManagementSystem) | C# based library management system |
-| 🛠️ [AutoRepair ERP System](https://github.com/zain-osscdr/AutoRepairERP-System) | ASP.NET Core based automotive ERP system |
+| 🧠 [Machine Learning Models](https://github.com/zain-osscdr/Machine-Learning-Models) | Machine learning models, preprocessing, datasets, experiments, and analysis |
+| 💻 [LeetCode Solutions](https://github.com/zain-osscdr/LeetCode-Solutions) | Data structures and algorithms implemented in C#, C++, and Python |
+| 🗳️ [Election Management System](https://github.com/zain-osscdr/ELECTION-MANAGEMENT-SYSTEM) | Java Swing and MySQL based election management system with voter registration, secure login, candidate management, and real-time result calculation |
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zain-osscdr&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=zain-osscdr&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -105,18 +106,25 @@ Software Engineering
         ↓
 AI-Powered Applications
 ```
-🎯 Goals
-Build practical AI and ML applications
-Improve software engineering skills
-Develop production-ready projects
-Contribute to open source
-Continuously learn emerging technologies
-💬 Developer Quote
+## 🎯 Goals
 
-"First, solve the problem. Then, write the code."
+🚀 Build practical AI & ML applications  
+💻 Improve software engineering skills  
+🏗️ Develop production-ready projects  
+🌎 Contribute to open source  
+📚 Continuously learn emerging technologies  
+🧠 Strengthen problem-solving and algorithmic skills  
 
-⭐ Thanks for Visiting
+---
+
+## 💬 Developer Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+## ⭐ Thanks for Visiting
 
 If you find my projects useful, consider giving them a ⭐.
 
-Let's build something meaningful with technology. 🚀
+**Let's build something meaningful with technology. 🚀**
