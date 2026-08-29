@@ -16,9 +16,6 @@ I enjoy building practical applications, experimenting with new technologies, an
   </a>
 </p>
 
----
-## 🔥 GitHub Streak
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=zain-osscdr&theme=tokyonight&hide_border=true"
