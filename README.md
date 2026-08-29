@@ -84,24 +84,6 @@ I build practical projects, experiment with different technologies, and continuo
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zain-osscdr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="Zain's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-osscdr&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Zain's Top Languages"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
