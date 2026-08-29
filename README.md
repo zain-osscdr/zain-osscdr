@@ -17,6 +17,16 @@ I enjoy building practical applications, experimenting with new technologies, an
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=zain-osscdr&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -82,16 +92,6 @@ I enjoy building practical applications, experimenting with new technologies, an
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=zain-osscdr&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
 ## 🧠 Current Focus
 
