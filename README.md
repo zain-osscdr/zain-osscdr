@@ -17,10 +17,9 @@ I enjoy building practical applications, experimenting with new technologies, an
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=zain-osscdr&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/zain-osscdr">
+    <img src="https://streak-stats.demolab.com/?user=zain-osscdr&theme=tokyonight&hide_border=true" alt="Zain's GitHub Streak" />
+  </a>
 </p>
 
 ---
