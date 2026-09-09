@@ -1,0 +1,32 @@
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate streak
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=zain-osscdr&theme=tokyonight&hide_border=true&disable_animations=true
+          path: github-streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak
+        run: |
+          git add github-streak.svg
+          git diff --cached --quiet -- github-streak.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update GitHub streak"
+          git push
